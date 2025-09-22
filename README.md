@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -24,9 +23,9 @@
         <h2>Personal Information</h2>
         <p><strong>Birthday:</strong> August 30, 2005</p>
         <p><strong>Religion:</strong> Catholic</p>
-        <p><strong>Age:</strong> 28</p>
+        <p><strong>Age:</strong> 20</p>
         <p><strong>Height:</strong> 5'3"</p>
-        <p><strong>Weight:</strong> 42 kg</p>
+        <p><strong>Weight:</strong> 44 kg</p>
         <p><strong>Nickname:</strong> Jedrick</p>
         <p><strong>Nationality:</strong> Filipino</p>
       </section>
