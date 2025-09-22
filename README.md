@@ -8,7 +8,8 @@
 <body>
   <div class="container">
     <aside class="sidebar">
-      <img src="pc.jpg" alt="ID Image" class="id-image" />
+      <img src="![Uploading pc.jpg…]()
+" alt="ID Image" class="id-image" />
       <h1 class="name">Jedrick Verzosa</h1>
       <p class="title">Aspiring Web Developer</p>
 
